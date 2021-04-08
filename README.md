@@ -25,8 +25,10 @@ This part has further two subparts:
    - This time since the number of categories are lesser so we can decrease the number of epochs and the number of layers too, so the final optimized result has been achieved with an accuracy of 92.6% and the corresponding code has been uploaded by the name midas_task2_0to9.py
 - Using the standard [mnist_dataset](http://yann.lecun.com/exdb/mnist/):
    - Trained the same model and since this dataset has 60000 images distributed among 10 labels so more effective results have been obtained and an accuracy of 97% has been achieved, as compared to only 40 images per labels in the previous dataset.
+   - The code file canbe found in the repo by the name midas_task2_mnis.py
 
 ## Task-2 part-3
 - Using the same model as above, this time a different dataset, which be downloaded from [here](https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip) is used.
 - This dataset has shuffled 60000 images of digits from 0 to 9 distributed randomly among 10 labels.
-- Due to randomly distributed images and no proper classification in the dataset the model could not be trained effectively and this can also be analyzed qualitatvely.  
+- Due to randomly distributed images and no proper classification in the dataset the model could not be trained effectively and this can also be analyzed qualitatvely.
+- The code file canbe found in the repo by the name task3midas.py  

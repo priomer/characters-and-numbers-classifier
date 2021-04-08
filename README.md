@@ -18,5 +18,5 @@ This project is done for the task submission under MIDAS@IIITD Summer Internship
 
 ## Task-2 part-2
 - This part has further two subparts:
--  - At first I have used the same pretrained neural net same as for part-1 and used a subset of the previous dataset.
--  - Tg
+   - At first I have used the same pretrained neural net same as for part-1 and used a subset of the previous dataset.
+   - Tg
